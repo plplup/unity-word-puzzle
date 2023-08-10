@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a202016be1b88d948bb4da2c5fc83ae2, type: 3}
+  m_Name: Level9
+  m_EditorClassIdentifier: 
+  id: 5c78dd8c-e178-4801-9a9e-95c854c1d661
+  levelName: 9
+  shelvesAmount: 7
+  wordsAmount: 6
+  cameraSize: 8
+  shelfXOffset: 4
+  skyBoxColor: {r: 0.93333334, g: 0.40000004, b: 0.58119357, a: 1}
+  wordType: 1
+  randomSeed: 703

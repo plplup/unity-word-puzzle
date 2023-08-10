@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DefaultTable_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 122ac700f4b566242b3ef287302077a9, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 503608672256
+    m_Localized: Jogar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 560995139584
+    m_Localized: Selecionar Nivel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 639332155392
+    m_Localized: "Op\xE7\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1844997423104
+    m_Localized: Sair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2415930277888
+    m_Localized: Niveis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2511501688832
+    m_Localized: "\rN\xEDvel Completo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2605269549056
+    m_Localized: Menu Principal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2728494006272
+    m_Localized: "Pr\xF3ximo N\xEDvel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17725743857664
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
