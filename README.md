@@ -2,4 +2,4 @@
 
 Simple Word Sort Puzzle made with unity
 
-![](https://github.com/plplup/unity-word-sort-puzzle/assets/37055813/2814975e-9275-4b09-b897-5dbb1357ca77)
+![wordPuzzle](https://github.com/plplup/unity-word-sort-puzzle/assets/37055813/8434fcb4-8990-4862-900e-f1675ef65504)
